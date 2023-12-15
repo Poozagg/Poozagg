@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 <h3 align="center">Recent graduate of the intensive Le Wagon coding bootcamp in London. Previously worked as Civil Engineer.</h3>
 
+<p align="center">
 - 💬 Ask me about **ruby, ruby on rails, javascript, css, html, heroku, cloudinary, mapbox**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
