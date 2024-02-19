@@ -10,7 +10,9 @@
 <a href="https://linkedin.com/in/pooja-gurung-o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-gurung-o" height="30" width="40" /></a>
 </p>
 
-<a href="www.poojagrg.me" target="blank" align="center"> link to my portfolio ---> www.poojagrg.me </a>
+<p align="center">
+<a href="www.poojagrg.me" target="blank"> link to my portfolio: www.poojagrg.me </a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
