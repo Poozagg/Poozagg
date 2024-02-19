@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="www.poojagrg.me" target="blank"> link to my portfolio: www.poojagrg.me </a>
+  <a href="www.poojagrg.me" target="blank"> link to my portfolio </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
