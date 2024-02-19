@@ -8,8 +8,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pooja-gurung-o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-gurung-o" height="30" width="40" /></a>
- <a href="www.poojagrg.me" target="blank"> link to my portfolio </a>
+ 
 </p>
+
+ <a href="www.poojagrg.me" target="blank"> link to my portfolio </a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
