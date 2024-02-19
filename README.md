@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.poojagrg.me/" target="blank"> link to my portfolio </a>
+ <a href="https://www.poojagrg.me/" target="_blank"> link to my portfolio </a>
 </p>
 
 
