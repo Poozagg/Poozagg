@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My portfolio [www.poojagrg.me](www.poojagrg.me)
+- 👨‍💻 My portfolio <a href="www.poojagrg.me" target="blank"> www.poojagrg.me </a>
 
 
 <h3 align="center">Connect with me:</h3>
