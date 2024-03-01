@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja - Fullstack Developer </h1>
-<h3 align="center">With six years as a Civil Engineer, I've transitioned into the captivating world of coding, eager to embrace new challenges and possibilities.</h3>
+<h3 align="center"> Former Civil Engineer </h3>
 
 - 🌱 I’m currently learning **React**
 
