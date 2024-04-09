@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja - Fullstack Developer </h1>
+<h1 align="center">Hi 👋, I'm Pooja - Junior Fullstack Developer </h1>
 <h3 align="center"> Former Civil Engineer </h3>
 
 - 🌱 I’m currently learning **React**
