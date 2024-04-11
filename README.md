@@ -7,8 +7,9 @@
   - Experienced Design Engineer (Civil Engineering) with six years of industry expertise.
   - Actively transitioning to a career in Software Development.
   - 🌱 I'm currently Learning React
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pooja-gurung-o/) [![www.poojagrg.me](https://img.shields.io/badge/www.poojagrg.me-%23107C10.svg?style=for-the-badge&logo=&logoColor=white)](https://linkedin.com/in/https://www.poojagrg.me) 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-gurung-o/)
+[![www.poojagrg.me](https://img.shields.io/badge/www.poojagrg.me-%23107C10.svg?style=for-the-badge&logo=&logoColor=white)](https://linkedin.com/in/https://www.poojagrg.me) 
 
 
   
