@@ -8,14 +8,8 @@
   - Actively transitioning to a career in Software Development.
   - 🌱 I'm currently Learning React
 
-
-<div style="display: flex;">
-  <a href="https://linkedin.com/in/pooja-gurung-o/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a><a href="https://www.poojagrg.me" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/www.poojagrg.me-%23107C10.svg?style=for-the-badge&logo=&logoColor=white" alt="www.poojagrg.me">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-gurung-o/)
+[![www.poojagrg.me](https://img.shields.io/badge/www.poojagrg.me-%23107C10.svg?style=for-the-badge&logo=&logoColor=white)](https://www.poojagrg.me)
 
 
   
