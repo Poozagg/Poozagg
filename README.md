@@ -9,7 +9,7 @@
   - 🌱 I'm currently Learning React
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-gurung-o/)
-[![www.poojagrg.me](https://img.shields.io/badge/www.poojagrg.me-%23107C10.svg?style=for-the-badge&logo=&logoColor=white)](https://poojagrg.me/in/https://www.poojagrg.me) 
+[![www.poojagrg.me](https://img.shields.io/badge/www.poojagrg.me-%23107C10.svg?style=for-the-badge&logo=&logoColor=white)](https://www.poojagrg.me)
 
 
   
