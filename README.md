@@ -10,8 +10,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pooja-gurung-o/) 
 
 ## 👩🏻‍🏫 Education:
-Le Wagon Fullstack Web Development Bootcamp
+![LeWagon](https://img.shields.io/badge/LeWagon-%23CC342D.svg?style=for-the-badge&logo=LeWagon&logoColor=white)
+<br />
+  - Le Wagon Fullstack Web Development Bootcamp
 
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
+<br />
+ - Learn React
 
 
 
