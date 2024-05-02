@@ -1,19 +1,24 @@
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 <br><br>
-  
-  ## Hi I am Pooja 
-  ### 👷🏼‍♀️ About Me:
-  - Experienced Design Engineer (Civil Engineering) with six years of industry expertise.
-  - Actively transitioning to a career in Software Development.
-  - 🌱 I'm currently Learning React
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-gurung-o/)
 [![www.poojagrg.me](https://img.shields.io/badge/www.poojagrg.me-%23107C10.svg?style=for-the-badge&logo=&logoColor=white)](https://www.poojagrg.me)
-
-
   
+  ## Hi I am Pooja 
+  ### 👷🏼‍♀️ About Me:
+
+    
  </div>
+
+  * Experienced Design Engineer (Civil Engineering) with six years of industry expertise.
+  * Actively transitioning to a career in Software Development.
+  * 🌱 I'm currently Learning React
+
+
+
+
+
 
   
   
