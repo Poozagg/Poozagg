@@ -12,8 +12,7 @@
  </div>
 
   * Experienced Design Engineer (Civil Engineering) with six years of industry expertise.
-  * Actively transitioning to a career in Software Development.
-  * 🌱 I'm currently Learning React
+  SOFTWARE ENGINEER APPRENTICE
 
 
 
