@@ -11,8 +11,7 @@
     
  </div>
 
-  * Experienced Design Engineer (Civil Engineering) with six years of industry expertise.
-  SOFTWARE ENGINEER APPRENTICE
+  * SOFTWARE ENGINEER APPRENTICE
 
 
 
